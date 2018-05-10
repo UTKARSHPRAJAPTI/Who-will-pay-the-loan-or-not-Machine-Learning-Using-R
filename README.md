@@ -1,0 +1,2 @@
+# Who-will-pay-the-loan-or-not-Machine-Learning-Using-R
+Use R, to solve the assignment. All the questions are based on data set named BH.csv, located at “C/Data Science R/Assignments/Graded Assignments/Topic 11.2 Decision Trees” in the R cloud lab. This data set has 29105 observations across 110 columns. An analytics consultancy wants to use this data to build a classifier that will predict, who will pay the loan and who will not.
